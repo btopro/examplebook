@@ -6,5 +6,5 @@
    * [yet more](yet_more.md)
 * [First Chapter](chapter1.md)
    * [things](things.md)
-       * stuff
+       * [stuff](stuff.md)
 
